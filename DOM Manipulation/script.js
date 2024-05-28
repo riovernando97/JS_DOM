@@ -9,3 +9,5 @@ judul.setAttribute('name', 'rio');
 
 // element.getAttribute()
 judul.getAttribute('id'); // output : judul
+
+//
